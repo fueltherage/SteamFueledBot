@@ -1,0 +1,11 @@
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\FueledSteamBot.exe.config
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\FueledSteamBot.exe
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\FueledSteamBot.pdb
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\protobuf-net.dll
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\SteamKit2.dll
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\protobuf-net.pdb
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\protobuf-net.xml
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\bin\Debug\SteamKit2.xml
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\obj\Debug\FueledSteamBot.csprojResolveAssemblyReference.cache
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\obj\Debug\FueledSteamBot.exe
+C:\Users\Wesley\Documents\C# Projects\FueledSteamBot\FueledSteamBot\obj\Debug\FueledSteamBot.pdb
